@@ -11,5 +11,3 @@
 * Angular = 2
 * Bootstrap = 3
 
-# Dell_Exercises
-# Dell_Exercises
