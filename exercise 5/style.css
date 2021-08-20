@@ -1,0 +1,21 @@
+
+
+
+
+.btn.primary.cta-v2 div.cta-body {
+    background: blue;
+    border: 1px solid white;
+}
+
+.btn.secondary.cta-v2 div.cta-body {
+    background: white;
+    /*
+    apesar de não pedir no teste, vou mudar 
+    a cor da fonte para azul
+    */
+    color: blue;
+
+}
+				
+				
+            
